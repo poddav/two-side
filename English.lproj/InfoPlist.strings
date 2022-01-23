@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "2side";
+NSHumanReadableCopyright = "© poddav, 2005";
+CFBundleShortVersionString = "2side version 1.0";
+CFBundleGetInfoString = "2side version 1.0\nCopyright © 2005 poddav";
